@@ -1,0 +1,3 @@
+# SQL Projects
+
+SQL projects demonstrating SQLite, joins, subqueries, aggregation, and data analysis.
